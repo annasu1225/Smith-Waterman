@@ -10,7 +10,7 @@ Ouput:
 1. A txt file containing the input sequences, score matrix, and best local alignment results. 
 
 Usage: 
-python SW.py -i <input file> -s <score file>
+python SW.py -i inputfile -s scorefile
 
 Example: 
 python SW.py -i input.txt -s blosum62.txt
