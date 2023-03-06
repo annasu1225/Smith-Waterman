@@ -1,5 +1,6 @@
 # Smith-Waterman
 
+## Descriptions:
 This package implements a Smith-Waterman local alignment algorithm. The default gap penalties are: opening gap -2, extension gap = -1.
 
 ## Input: 
@@ -22,5 +23,5 @@ python SW.py -i input.txt -s blosum62.txt
 anna.su@yale.edu
 
 ## References:
-1. [CMU CMSC 423 Gap penalties lecture slides]: https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/gaps.pdf
-2. [Smith-Waterman Algorithm by Slavianap]: https://github.com/slavianap/Smith-Waterman-Algorithm/blob/master/Script.py
+1. [CMU CMSC423 Gap Penalties Lecture Slides](https://www.cs.cmu.edu/~ckingsf/bioinfo-lectures/gaps.pdf)
+2. [Smith-Waterman Algorithm by Slavianap](https://github.com/slavianap/Smith-Waterman-Algorithm/blob/master/Script.py)
